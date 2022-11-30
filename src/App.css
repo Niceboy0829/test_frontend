@@ -1,0 +1,20 @@
+*{
+  margin:0;
+  padding:0; 
+}
+
+.main-body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: black;
+  color: white;
+}
+
+.main-body .wallet-address {
+  text-align: center;
+  margin-bottom: 20px;
+}
